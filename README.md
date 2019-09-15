@@ -62,6 +62,8 @@ The extension requires compilation in Linux. This requires:
 + php (php5, php5-dev)
 + Qt5 (qtbase5-dev, qt5-qmake, libqt5webkit5, libqt5webkit5-dev, qt5-image-formats-plugins, qt5-default)
 
+Extra note: if you have centos7, ubuntu 14 or 16 need to rename config.m4.... to config.m4 
+
 Follow these steps:
 
 1.  For compilation you must run the build script
