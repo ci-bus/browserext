@@ -54,6 +54,10 @@ this line to envvars file:
 
 `export DISPLAY=:0.0`
 
+To EC2 ubuntu machine is neccesary adding this line in /etc/apache2/envvars:
+
+`export DISPLAY=localhost:0.0`
+
 
 The extension requires compilation in Linux. This requires:
 
